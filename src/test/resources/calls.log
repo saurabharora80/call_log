@@ -1,0 +1,4 @@
+customer_id,phone_number_called,call_duration_in_secs
+1,07512345671,156
+2,07512345672,212
+3,07512345673,320
